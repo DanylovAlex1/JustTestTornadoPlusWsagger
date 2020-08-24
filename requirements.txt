@@ -1,0 +1,8 @@
+aiopg==1.0.0
+Jinja2==2.11.2
+jsonschema==2.6.0
+MarkupSafe==1.1.1
+psycopg2-binary==2.8.5
+PyYAML==5.3.1
+tornado==5.1.1
+tornado-swagger==1.2.4
